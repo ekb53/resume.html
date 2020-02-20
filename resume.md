@@ -32,6 +32,9 @@
 </ul>
 <h4>Skills, Activities & Interests</h4>
 <ul>
+  <li>Web Applications</li>
+  <li>Organizational Skills</li>
+  <li>Team Leadership</li>
   <li>Adobe Photoshop</li>
   <li>Adobe Lightroom</li>
   <li>Digital Photography</li>
