@@ -17,7 +17,7 @@
   </nav>
   </header>
   <main>
-<h1>Education</h1>
+<h4>Education</h4>
   <p> Colorado Academy </p>
   <p> University of Miami Herbert Business School </p>
 <h4>Work & Leadership Experience</h4>
@@ -31,15 +31,23 @@
   <li>Maintained cleanliness and order of entire facility</li>
   <li>Delivered exemplary customer service</li>
 </ul>
+    <section>
 <h4>Skills, Activities & Interests</h4>
+      <p>Technical Skills</p>
 <ul>
   <li>Web Applications</li>
-  <li>Organizational Skills</li>
-  <li>Team Leadership</li>
   <li>Adobe Photoshop</li>
   <li>Adobe Lightroom</li>
   <li>Digital Photography</li>
 </ul>
+      <p>Skills</p>
+ <ul>
+  <li>Team Leadership</li>
+  <li>Organizational Skills</li>
+  <li>Public Speaking</li>
+ </ul>
+      <p>Languages: Fluent in English, Proficient in Mandarin Chinese</p>
+   </section>
   </main>
   <footer>
     <p>Additional Information</p>
