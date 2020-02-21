@@ -7,7 +7,8 @@
 <body>
 <header>
 <h1>Ethan Bennett</h1>
-<h6>(720)-333-1046 Denver, Colorado</h6>
+  <h6>(720)-333-1046</h6>
+  <h6>Denver, Colorado</h6>
   <h6>ekb53@miami.edu</h6>
 <img src="ekb.jpg" alt="Ethan-Bennett-Resume">
   <nav>
